@@ -13,13 +13,9 @@ For BibTex users:
     title = "{Artificial neural network aided vapor–liquid equilibrium model for multi-component high-pressure transcritical flows with phase change}",
     journal = {Physics of Fluids},
     volume = {36},
-    number = {8},
     pages = {083328},
     year = {2024},
-    issn = {1070-6631},
-    doi = {10.1063/5.0219323},
-    url = {https://doi.org/10.1063/5.0219323},
-    eprint = {https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0219323/20121434/083328\_1\_5.0219323.pdf},
+    doi = {https://doi.org/10.1063/5.0219323}
 }
 
 @article{ZHANG2024112752,
@@ -29,7 +25,5 @@ journal = {Journal of Computational Physics},
 volume = {500},
 pages = {112752},
 year = {2024},
-issn = {0021-9991},
-doi = {https://doi.org/10.1016/j.jcp.2024.112752},
-url = {https://www.sciencedirect.com/science/article/pii/S0021999124000019},
+doi = {https://doi.org/10.1016/j.jcp.2024.112752}
 }
