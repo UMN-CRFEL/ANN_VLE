@@ -8,7 +8,7 @@ If using the solvers, please cite the following two journal articles: [ANN aided
 
 For BibTex users:
 ```bibtex
-@article{10.1063/5.0219323,
+@article{Srinivasan_ANN_VLE,
     author = {Srinivasan, Navneeth and Yang, Suo},
     title = "{Artificial neural network aided vapor–liquid equilibrium model for multi-component high-pressure transcritical flows with phase change}",
     journal = {Physics of Fluids},
@@ -18,12 +18,12 @@ For BibTex users:
     doi = {https://doi.org/10.1063/5.0219323}
 }
 
-@article{ZHANG2024112752,
-author = {Hongyuan Zhang and Navneeth Srinivasan and Suo Yang},
-title = {In situ adaptive tabulation of vapor-liquid equilibrium solutions for multi-component high-pressure transcritical flows with phase change},
-journal = {Journal of Computational Physics},
-volume = {500},
-pages = {112752},
-year = {2024},
-doi = {https://doi.org/10.1016/j.jcp.2024.112752}
+@article{Zhang_ISAT_VLE,
+    author = {Hongyuan Zhang and Navneeth Srinivasan and Suo Yang},
+    title = {In situ adaptive tabulation of vapor-liquid equilibrium solutions for multi-component high-pressure transcritical flows with phase change},
+    journal = {Journal of Computational Physics},
+    volume = {500},
+    pages = {112752},
+    year = {2024},
+    doi = {https://doi.org/10.1016/j.jcp.2024.112752}
 }
