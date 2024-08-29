@@ -10,6 +10,7 @@ cd ANN/C++_testing
 make
 ./runANN
 ```
+For further explanation on the ANN C++ coupling framework, go through the ANN_VLE_README provided.
 
 # Citation
 If using the solvers, please cite the following two journal articles: [ANN aided VLE](https://doi.org/10.1063/5.0219323) and  [ISAT aided VLE](https://doi.org/10.1016/j.jcp.2024.112752)
