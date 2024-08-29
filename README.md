@@ -3,6 +3,12 @@
 # About VLE Solvers
 Python based VLE solvers (VTFlash, UVFlash) which use the Peng Robinson equation of state have been added. Species Data can be added to the SpeciesData.py file.
 
+# About ANN C++ Coupling
+The files required to couple a trained ANN with a given C++ file are provided in the ANN directory. To run the given test case in C++_testing use the following commands - 
+cd ANN/C++_testing
+make
+./runANN
+
 # Citation
 If using the solvers, please cite the following two journal articles: [ANN aided VLE](https://doi.org/10.1063/5.0219323) and  [ISAT aided VLE](https://doi.org/10.1016/j.jcp.2024.112752)
 
