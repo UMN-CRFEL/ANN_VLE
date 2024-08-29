@@ -1,0 +1,1 @@
+g++ runANN.cpp -I../onnxruntime-linux-x64-1.14.1/include/ ../onnx/onnxruntime-linux-x64-1.14.1/lib/libonnxruntime.so.1.14.1

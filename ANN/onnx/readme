@@ -1,0 +1,2 @@
+downloaded onnx linux files from - https://github.com/microsoft/onnxruntime/releases/download/v1.14.1/onnxruntime-linux-x64-1.14.1.tgz
+use wget to pull to location
