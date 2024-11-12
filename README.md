@@ -36,3 +36,7 @@ For BibTex users:
     year = {2024},
     doi = {https://doi.org/10.1016/j.jcp.2024.112752}
 }
+
+# Acknowledgement/Disclaimer
+This work was sponsored by the Office of Naval Research (ONR), under grant/contract number N00014-22-1-2287. The views and conclusions contained herein are those of the authors only and should not be interpreted as representing those of ONR, the U.S. Navy or the U.S. Government.
+
